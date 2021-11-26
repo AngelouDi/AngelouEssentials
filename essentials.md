@@ -1,24 +1,39 @@
-[Firefox](https://www.mozilla.org/en-US/firefox/new/)\
-[Windows Power Toys](https://github.com/microsoft/PowerToys)\
-[Everything](https://www.voidtools.com/)\
-[Everything Toolbar](https://github.com/stnkl/EverythingToolbar)\
-[Git](https://git-scm.com/)\
-[Spotify](https://open.spotify.com/)\
-[Notepad++](https://notepad-plus-plus.org/)\
-[Vim](https://www.vim.org/download.php)\
-[Jetbrains](https://www.jetbrains.com/)\
-[Adobe Suite]\
-[Foobar](https://www.foobar2000.org/)\
-[MalwareBytes](https://www.malwarebytes.com/)\
+# Coding
+---
 [Python](https://www.python.org/)\
-[Signal](https://www.signal.org/)\
 [HxD](https://mh-nexus.de/en/hxd/)\
+[Jetbrains](https://www.jetbrains.com/)\
+[Vim](https://www.vim.org/download.php)\
+[Git](https://git-scm.com/)
+# Misc
+---
+[Firefox](https://www.mozilla.org/en-US/firefox/new/)\
+[MalwareBytes](https://www.malwarebytes.com/)\
 [WinRar](https://www.win-rar.com/start.html?&L=0)\
-[AutoHotKey](https://www.autohotkey.com/)\
-[EqualizerAPO](https://equalizerapo.com/) + [Peace](https://sourceforge.net/projects/peace-equalizer-apo-extension/)\
-[Discord](https://www.discord.app/)\
 [Lightshot](https://lightshot.co/en/index.html)\
-[MikTeX](https://miktex.org/)\
-[TeXstudio](https://www.texstudio.org/)\
 [OBSStudio](https://obsproject.com/)\
 [qBittorrent](https://www.qbittorrent.org/)\
+[Adobe Suite]
+
+# Productivity
+---
+[Everything](https://www.voidtools.com/)\
+[Everything Toolbar](https://github.com/stnkl/EverythingToolbar)\
+[Notepad++](https://notepad-plus-plus.org/)\
+[MikTeX](https://miktex.org/)\
+[TeXstudio](https://www.texstudio.org/)\
+[AutoHotKey](https://www.autohotkey.com/)\
+[Windows Power Toys](https://github.com/microsoft/PowerToys)
+
+# Entertainment
+---
+
+[Foobar](https://www.foobar2000.org/)\
+[EqualizerAPO](https://equalizerapo.com/) + [Peace](https://sourceforge.net/projects/peace-equalizer-apo-extension/)\
+[Spotify](https://open.spotify.com/)
+
+
+# Communication
+---
+[Signal](https://www.signal.org/)\
+[Discord](https://www.discord.app/)
