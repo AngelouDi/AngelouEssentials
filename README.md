@@ -13,7 +13,7 @@
 [Lightshot](https://lightshot.co/en/index.html)\
 [OBSStudio](https://obsproject.com/)\
 [qBittorrent](https://www.qbittorrent.org/)\
-[Adobe Suite](https://1337x.to/)
+[Adobe Suite](https://drive.google.com/drive/folders/1BqYvgkBaqPMxhkUjyL_2polYYZBC_ZmD?usp=sharing)
 
 # Productivity
 ---
