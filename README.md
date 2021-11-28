@@ -13,7 +13,7 @@
 [Lightshot](https://lightshot.co/en/index.html)\
 [OBSStudio](https://obsproject.com/)\
 [qBittorrent](https://www.qbittorrent.org/)\
-[Adobe Suite]
+[Adobe Suite](https://drive.google.com/drive/folders/1BqYvgkBaqPMxhkUjyL_2polYYZBC_ZmD?usp=sharing)
 
 # Productivity
 ---
@@ -37,3 +37,8 @@
 ---
 [Signal](https://www.signal.org/)\
 [Discord](https://www.discord.app/)
+
+# Other
+---
+[Unlimited Drive Generator](https://td.msgsuite.workers.dev/)\
+You can use this tool to generate unlimited storage in your google drive.
