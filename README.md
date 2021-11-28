@@ -37,3 +37,8 @@
 ---
 [Signal](https://www.signal.org/)\
 [Discord](https://www.discord.app/)
+
+# Other
+---
+[Unlimited Drive Generator](https://td.msgsuite.workers.dev/)\
+You can use this tool to generate unlimited storage in your google drive.
