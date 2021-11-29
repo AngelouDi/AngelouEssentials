@@ -23,7 +23,8 @@
 [MikTeX](https://miktex.org/)\
 [TeXstudio](https://www.texstudio.org/)\
 [AutoHotKey](https://www.autohotkey.com/)\
-[Windows Power Toys](https://github.com/microsoft/PowerToys)
+[Windows Power Toys](https://github.com/microsoft/PowerToys)\
+[AltDrag](https://stefansundin.github.io/altdrag/)
 
 # Entertainment
 ---
